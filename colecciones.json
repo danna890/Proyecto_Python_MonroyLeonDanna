@@ -1,5 +1,32 @@
 {
-    "libros": [],
-    "peliculas": [],
-    "musica": []
+  "libros": [
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "genero": "Distopía",
+      "valoracion": "5"
+    },
+    {
+      "titulo": "Cien Años de Soledad",
+      "autor": "Gabriel García Márquez",
+      "genero": "Realismo Mágico",
+      "valoracion": "5"
+    }
+  ],
+  "peliculas": [
+    {
+      "titulo": "Inception",
+      "director": "Christopher Nolan",
+      "genero": "Ciencia Ficción",
+      "valoracion": "5"
+    }
+  ],
+  "musica": [
+    {
+      "titulo": "Bohemian Rhapsody",
+      "artista": "Queen",
+      "genero": "Rock",
+      "valoracion": "5"
+    }
+  ]
 }
